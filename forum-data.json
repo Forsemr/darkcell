@@ -1,11 +1,12 @@
 {
   "metadata": {
-    "version": "4.0",
-    "syncDate": "2026-01-30T12:51:59.079Z",
-    "syncBy": "DARKCELL",
+    "version": "1.0",
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "lastSync": "2024-01-01T00:00:00.000Z",
+    "createdBy": "system",
     "totalRecords": {
-      "users": 3,
-      "topics": 1
+      "users": 1,
+      "topics": 0
     }
   },
   "users": [
@@ -14,58 +15,18 @@
       "username": "DARKCELL",
       "email": "admin@darkcell.com",
       "isAdmin": true,
-      "createdAt": "2026-01-30T11:54:03.153Z",
+      "createdAt": "2024-01-01T00:00:00.000Z",
       "avatarColor": "#ff1493",
       "isOnline": false,
-      "lastLogin": "2026-01-30T12:48:38.240Z",
-      "lastLogout": "2026-01-30T12:51:59.078Z",
-      "password": "***encrypted***"
-    },
-    {
-      "id": 1769774175036,
-      "username": "fors",
-      "email": "yahyaarisoy56@gmail.com",
-      "isAdmin": false,
-      "createdAt": "2026-01-30T11:56:15.036Z",
-      "avatarColor": "#bae1d8",
-      "isOnline": false,
-      "lastLogin": "2026-01-30T11:56:15.036Z",
+      "lastLogin": null,
       "lastLogout": null,
       "password": "***encrypted***"
-    },
-    {
-      "id": 1769777233223,
-      "username": "fors1\"2",
-      "email": "fafa@gmail.com",
-      "isAdmin": false,
-      "createdAt": "2026-01-30T12:47:13.224Z",
-      "avatarColor": "#562e1c",
-      "isOnline": false,
-      "lastLogin": "2026-01-30T12:47:13.225Z",
-      "lastLogout": "2026-01-30T12:48:27.094Z",
-      "password": "***encrypted***"
     }
   ],
-  "topics": [
-    {
-      "id": 1769777343088,
-      "title": "deneme",
-      "content": "dadsaddad",
-      "category": "veri",
-      "author": "DARKCELL",
-      "authorId": 1,
-      "avatarColor": "#ff1493",
-      "likes": {},
-      "likeCount": 0,
-      "views": 0,
-      "createdAt": "2026-01-30T12:49:03.088Z",
-      "updatedAt": "2026-01-30T12:49:03.089Z",
-      "files": []
-    }
-  ],
+  "topics": [],
   "statistics": {
-    "totalUsers": 3,
-    "totalTopics": 1,
+    "totalUsers": 1,
+    "totalTopics": 0,
     "totalFiles": 0,
     "totalLikes": 0,
     "totalViews": 0,
