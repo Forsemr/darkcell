@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "version": "4.0",
+    "syncDate": "2024-01-30T10:00:00.000Z",
+    "syncBy": "DARKCELL",
+    "totalRecords": {
+      "users": 1,
+      "topics": 0
+    }
+  },
+  "users": [
+    {
+      "id": 1,
+      "username": "DARKCELL",
+      "email": "admin@darkcell.com",
+      "isAdmin": true,
+      "createdAt": "2024-01-01T00:00:00.000Z",
+      "avatarColor": "#ff1493",
+      "isOnline": false,
+      "lastLogin": "2024-01-30T09:45:00.000Z",
+      "lastLogout": "2024-01-30T09:50:00.000Z",
+      "password": "***encrypted***"
+    }
+  ],
+  "topics": [],
+  "statistics": {
+    "totalUsers": 1,
+    "totalTopics": 0,
+    "totalFiles": 0,
+    "totalLikes": 0,
+    "totalViews": 0,
+    "onlineUsers": 0
+  }
+}
