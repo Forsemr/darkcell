@@ -1,11 +1,11 @@
 {
   "metadata": {
     "version": "6.0",
-    "syncDate": "2026-01-30T13:30:16.969Z",
+    "syncDate": "2026-01-30T13:30:29.795Z",
     "syncBy": "DARKCELL",
     "totalRecords": {
       "users": 1,
-      "topics": 3
+      "topics": 4
     }
   },
   "users": [
@@ -23,6 +23,21 @@
     }
   ],
   "topics": [
+    {
+      "id": 1769779829748,
+      "title": "ydxyttxcttygf",
+      "content": "fsdfsfsfsd",
+      "category": "data",
+      "author": "DARKCELL",
+      "authorId": 1,
+      "avatarColor": "#ff1493",
+      "likes": {},
+      "likeCount": 0,
+      "views": 0,
+      "createdAt": "2026-01-30T13:30:29.748Z",
+      "updatedAt": "2026-01-30T13:30:29.748Z",
+      "files": []
+    },
     {
       "id": 1769779716944,
       "title": "cdfvdsgdgdfhdh",
@@ -71,7 +86,7 @@
   ],
   "statistics": {
     "totalUsers": 1,
-    "totalTopics": 3,
+    "totalTopics": 4,
     "totalFiles": 0,
     "totalLikes": 0,
     "totalViews": 0,
