@@ -1,10 +1,10 @@
 {
   "metadata": {
     "version": "6.0",
-    "syncDate": "2026-01-30T13:32:33.459Z",
+    "syncDate": "2026-01-30T13:33:00.810Z",
     "syncBy": "DARKCELL",
     "totalRecords": {
-      "users": 1,
+      "users": 2,
       "topics": 5
     }
   },
@@ -19,6 +19,18 @@
       "isOnline": false,
       "lastLogin": null,
       "lastLogout": null,
+      "password": "***encrypted***"
+    },
+    {
+      "id": 1769779931857,
+      "username": "moderator1",
+      "email": "mod@gmail.com",
+      "isAdmin": false,
+      "createdAt": "2026-01-30T13:32:11.857Z",
+      "avatarColor": "#c09b4f",
+      "isOnline": false,
+      "lastLogin": "2026-01-30T13:32:11.857Z",
+      "lastLogout": "2026-01-30T13:32:48.097Z",
       "password": "***encrypted***"
     }
   ],
@@ -100,7 +112,7 @@
     }
   ],
   "statistics": {
-    "totalUsers": 1,
+    "totalUsers": 2,
     "totalTopics": 5,
     "totalFiles": 0,
     "totalLikes": 0,
