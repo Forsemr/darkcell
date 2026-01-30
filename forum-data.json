@@ -24,7 +24,7 @@
       "id": 1769781753631,
       "username": "fors",
       "email": "yahyaarisoy56@gmial.com",
-      "isAdmin": false,
+      "isAdmin": true,
       "createdAt": "2026-01-30T14:02:33.632Z",
       "avatarColor": "#b15be3",
       "isOnline": false,
