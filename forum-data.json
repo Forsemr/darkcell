@@ -1,11 +1,11 @@
 {
   "metadata": {
-    "version": "7.0",
-    "syncDate": "2026-01-30T14:03:34.537Z",
-    "syncBy": "DARKCELL",
+    "version": "1.0",
+    "syncDate": null,
+    "syncBy": "system",
     "totalRecords": {
-      "users": 2,
-      "topics": 5
+      "users": 1,
+      "topics": 0
     }
   },
   "users": [
@@ -14,104 +14,17 @@
       "username": "DARKCELL",
       "email": "admin@darkcell.com",
       "isAdmin": true,
-      "createdAt": "2024-01-01T00:00:00.000Z",
-      "avatarColor": "#ff1493",
+      "createdAt": null,
+      "avatarColor": "#ff00ff",
       "isOnline": false,
       "lastLogin": null,
       "password": "***encrypted***"
-    },
-    {
-      "id": 1769779931857,
-      "username": "moderator1",
-      "email": "mod@gmail.com",
-      "isAdmin": false,
-      "createdAt": "2026-01-30T13:32:11.857Z",
-      "avatarColor": "#c09b4f",
-      "isOnline": false,
-      "lastLogin": "2026-01-30T13:32:11.857Z",
-      "password": "***encrypted***"
     }
   ],
-  "topics": [
-    {
-      "id": 1769779953065,
-      "title": "afsgvsdyre y e",
-      "content": "grgetuhrfvrsdyhtshdt",
-      "category": "data",
-      "author": "DARKCELL",
-      "authorId": 1,
-      "avatarColor": "#ff1493",
-      "likes": {},
-      "likeCount": 0,
-      "views": 0,
-      "createdAt": "2026-01-30T13:32:33.066Z",
-      "updatedAt": "2026-01-30T13:32:33.066Z",
-      "files": []
-    },
-    {
-      "id": 1769779829748,
-      "title": "ydxyttxcttygf",
-      "content": "fsdfsfsfsd",
-      "category": "data",
-      "author": "DARKCELL",
-      "authorId": 1,
-      "avatarColor": "#ff1493",
-      "likes": {},
-      "likeCount": 0,
-      "views": 0,
-      "createdAt": "2026-01-30T13:30:29.748Z",
-      "updatedAt": "2026-01-30T13:30:29.748Z",
-      "files": []
-    },
-    {
-      "id": 1769779716944,
-      "title": "cdfvdsgdgdfhdh",
-      "content": "dgdfgdfgdfhdhdhdh",
-      "category": "veri",
-      "author": "DARKCELL",
-      "authorId": 1,
-      "avatarColor": "#ff1493",
-      "likes": {},
-      "likeCount": 0,
-      "views": 0,
-      "createdAt": "2026-01-30T13:28:36.945Z",
-      "updatedAt": "2026-01-30T13:28:36.946Z",
-      "files": []
-    },
-    {
-      "id": 1769779628348,
-      "title": "fsfsfssf",
-      "content": "sssfsfsfsfsfsf",
-      "category": "veri",
-      "author": "DARKCELL",
-      "authorId": 1,
-      "avatarColor": "#ff1493",
-      "likes": {},
-      "likeCount": 0,
-      "views": 0,
-      "createdAt": "2026-01-30T13:27:08.348Z",
-      "updatedAt": "2026-01-30T13:27:08.348Z",
-      "files": []
-    },
-    {
-      "id": 1769779606010,
-      "title": "deneme",
-      "content": "cdsfsfgsdfsdf",
-      "category": "genel",
-      "author": "DARKCELL",
-      "authorId": 1,
-      "avatarColor": "#ff1493",
-      "likes": {},
-      "likeCount": 0,
-      "views": 0,
-      "createdAt": "2026-01-30T13:26:46.010Z",
-      "updatedAt": "2026-01-30T13:26:46.011Z",
-      "files": []
-    }
-  ],
+  "topics": [],
   "statistics": {
-    "totalUsers": 2,
-    "totalTopics": 5,
+    "totalUsers": 1,
+    "totalTopics": 0,
     "totalFiles": 0,
     "totalLikes": 0,
     "totalViews": 0,
