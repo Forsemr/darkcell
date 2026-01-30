@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "6.0",
-    "syncDate": "2026-01-30T14:43:35.204Z",
+    "version": "8.0",
+    "syncDate": "2026-01-30T14:54:19.804Z",
     "syncBy": "DARKCELL",
     "totalRecords": {
       "users": 4,
@@ -13,49 +13,45 @@
       "id": 1,
       "username": "DARKCELL",
       "email": "admin@darkcell.com",
+      "password": "***encrypted***",
       "isAdmin": true,
       "createdAt": null,
       "avatarColor": "#ff00ff",
       "isOnline": false,
-      "lastLogin": null,
-      "lastLogout": null,
-      "password": "***encrypted***"
-    },
-    {
-      "id": 1769779931857,
-      "username": "moderator1",
-      "email": "mod@gmail.com",
-      "isAdmin": false,
-      "createdAt": "2026-01-30T13:32:11.857Z",
-      "avatarColor": "#c09b4f",
-      "isOnline": false,
-      "lastLogin": "2026-01-30T13:32:11.857Z",
-      "lastLogout": null,
-      "password": "***encrypted***"
-    },
-    {
-      "id": 1769781753631,
-      "username": "fors",
-      "email": "yahyaarisoy56@gmial.com",
-      "isAdmin": true,
-      "createdAt": "2026-01-30T14:02:33.632Z",
-      "avatarColor": "#b15be3",
-      "isOnline": false,
-      "lastLogin": "2026-01-30T14:05:17.254Z",
-      "lastLogout": null,
-      "password": "***encrypted***"
+      "lastLogin": null
     },
     {
       "id": 1769783914540,
       "username": "fors",
       "email": "yahyaarisoy56@gmail.com",
+      "password": "***encrypted***",
       "isAdmin": false,
       "createdAt": "2026-01-30T14:38:34.540Z",
       "avatarColor": "#3ec95a",
       "isOnline": false,
-      "lastLogin": "2026-01-30T14:39:34.274Z",
-      "lastLogout": null,
-      "password": "***encrypted***"
+      "lastLogin": "2026-01-30T14:39:34.274Z"
+    },
+    {
+      "id": 1769779931857,
+      "username": "moderator1",
+      "email": "mod@gmail.com",
+      "password": "***encrypted***",
+      "isAdmin": false,
+      "createdAt": "2026-01-30T13:32:11.857Z",
+      "avatarColor": "#c09b4f",
+      "isOnline": false,
+      "lastLogin": "2026-01-30T13:32:11.857Z"
+    },
+    {
+      "id": 1769781753631,
+      "username": "fors",
+      "email": "yahyaarisoy56@gmial.com",
+      "password": "***encrypted***",
+      "isAdmin": true,
+      "createdAt": "2026-01-30T14:02:33.632Z",
+      "avatarColor": "#b15be3",
+      "isOnline": false,
+      "lastLogin": "2026-01-30T14:05:17.254Z"
     }
   ],
   "topics": [
